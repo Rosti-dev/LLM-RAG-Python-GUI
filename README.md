@@ -18,6 +18,7 @@ Für den Betrieb des Vektordatenservers ist die Installation von der "Visualstud
 Für Visualstudio app install siehe https://visualstudio.microsoft.com/visual-cpp-build-tools/
 
 ## Empfohlener Aufbau der .env
+### Konfiguration anpassen und anschließlich zu ".env" umbenennen.
 ```
 #OpenAI
 OPENAI_KEY=
