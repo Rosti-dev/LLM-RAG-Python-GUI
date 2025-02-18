@@ -1,0 +1,10 @@
+#LLM GUI
+python-dotenv
+requests
+python-docx
+#Vektordatenbank
+Flask
+langchain
+chromadb
+Pillow
+pystray
